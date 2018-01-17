@@ -1,4 +1,4 @@
-#ResumeDemo（简历模板）#
+# <p align="center">ResumeDemo（简历模板）</p> #
 
 简历模板是一个基于Vue.js开发的简单个人简历生成器。他可以在线制作个人简历，并能在线打印或另存为PDF文件。
 
