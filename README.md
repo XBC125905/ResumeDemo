@@ -11,4 +11,5 @@
 ## 参考
 (1) [ResumeDemo](https://github.com/YaoMiss/ResumeDemo)
 ## 许可
-BSD许可证
+BSD许可证<br>
+Copyright © 2017-2018
